@@ -98,7 +98,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
      <tr>
       <td><b><a href="https://www.statefarm.com/">IT System Analyst Intern @ State Farm</a></b></td>
       <td>working on backend of Auto, Qoute, and Purchase Team</td>
-      <td>May 2015 - Aug 2015, May 2016 - Aug 2016</td>
+      <td>May 2015 - Aug 2015, <br/>May 2016 - Aug 2016</td>
     </tr>
   </tbody>
 </table>
