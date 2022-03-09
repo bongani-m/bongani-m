@@ -83,7 +83,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   	<tr>
       <td><b><a href="https://www.blackbaud.com/">Software Engineer Intern @ Blackbaud</a> </b></td>
       <td>Learning and practising of ASP.NET,C#</td>
-      <td>January 2021 - August 2021</td>
+      <td>May 2018 - Aug 2018</td>
     </tr>
     <tr>
       <td><b><a href="https://www.hudl.com/">Software Developer Intern @ Hudl</a> </b></td>
