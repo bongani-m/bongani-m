@@ -1,5 +1,5 @@
 <!-- Your title -->
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Bongani Mbigi!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hi, I'm Bongani Mbigi!
 
 I'm a Software Engineer II. I'm living in Austin, Texas and currently working [@hudl](https://github.com/hudl). 
 <!-- Your badges
