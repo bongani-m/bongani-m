@@ -1,7 +1,7 @@
 <!-- Your title -->
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hi, I'm Bongani Mbigi!
 
-I'm a Software Engineer II. I'm living in Austin, Texas and currently working [@favordelivery]([https://github.com/hudl](https://github.com/favordelivery)). 
+I'm a Software Engineer II. I'm living in Austin, Texas and currently working [@favordelivery](https://github.com/favordelivery). 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
