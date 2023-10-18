@@ -66,9 +66,14 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </thead>
   <tbody>
     <tr>
+      <td><b><a href="https://www.favordelivery.com/">  Software Engineer II @ FavorDelivery </a> </b></td>
+      <td>Working on the Partner Exprience Team</td>
+      <td>Nov 2022 - Present </td>
+    </tr> 
+    <tr>
       <td><b><a href="https://www.hudl.com/">  Software Engineer II @ Hudl </a> </b></td>
       <td>Working on the Hudl Focus Camera Team</td>
-      <td>Jul 2021 - Present </td>
+      <td>Jul 2021 - Nov 2022 </td>
     </tr>  
     <tr>
       <td><b><a href="https://www.broadleafcommerce.com/">Software Engineer @ Broadleaf Commerce </a> </b></td>
